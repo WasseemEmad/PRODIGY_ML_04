@@ -38,7 +38,7 @@ The model achieved an accuracy of 99.57% on the test set.
 
 A confusion matrix and classification report are provided to evaluate the model's performance across all gesture classes.
 
-### ***Visualization:**
+### **Visualization:**
 
 Training history (accuracy and loss over epochs) is plotted.
 
